@@ -1,0 +1,16 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "''"
+  },
+  "author": "Mohammed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "init": "^0.1.2",
+    "mongoose": "^5.7.13"
+  }
+}
